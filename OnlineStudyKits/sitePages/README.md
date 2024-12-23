@@ -2,7 +2,8 @@
 
 <br>
 
-<p> **Hi there! Here's a little rundown over what this website hopes to accomplish**:
+<p>
+ <b> Hi there! Here's a little rundown over what this website hopes to accomplish </b>:
  - Increase transparency between the Student Government Association and the student body
  - Increase resources available to students on and off campus
  - Increase studying amongst students
