@@ -1,0 +1,11 @@
+.header {
+    padding: 80px;
+    text-align: center;
+    background: #582C83;
+    color: white
+}
+
+.header h1 {
+    font-size: 1.7em;
+    line-height: 1.3em;
+}
